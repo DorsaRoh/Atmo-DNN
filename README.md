@@ -22,28 +22,46 @@ H2O Quality: [Kaggle, Water Potability](https://www.kaggle.com/datasets/adityaka
 
 ## 1. Atmospheric Conditions of Planet
 
+Determines the chemical composition of the planet's atmosphere.
+
 - Inputs: 
-    - Semi-Major Axis	
-    - Planet Radius	
-    - Planet Density	
-    - Planet Surface Pressure	
-    - kappa	
-    - gamma1	
-    - gamma2	
-    - alpha	beta	
-    - Planet Surface Temperature
-    - Avg Mol Weight	
-    - Mean Surface Albedo
+    - Semi-Major Axis (AU)
+    - Planet Radius	(km)
+    - Planet Density (g/cm3)
+    - Planet Surface Pressure (bar)
+    - kappa	(fractional)
+    - gamma1 (fractional)
+    - gamma2 (fractional)
+    - alpha	beta (fractional)
+    - Planet Surface Temperature (K)
+    - Avg Mol Weight (fractional)
+    - Mean Surface Albedo (fractional)
 
 - Outputs:
-    - CH4 abundance	
-    - N2O abundance	
-    - CO abundance	
-    - O3 abundance	
-    - SO2 abundance	
-    - NH3 abundance	
-    - C2H6 abundance	
-    - NO2 abundance	
+    - CH4 abundance	(fractional)
+    - N2O abundance	(fractional)
+    - CO abundance (fractional)
+    - O3 abundance (fractional)
+    - SO2 abundance	(fractional)
+    - NH3 abundance	(fractional)
+    - C2H6 abundance (fractional)
+    - NO2 abundance (fractional)
 
 
 ## 2. Presence of Liquid Water
+
+Determines the potability of the water, if present, on the planet.
+
+- Inputs:
+    - ph: pH of 1. water (0 to 14)
+    - Hardness: Capacity of water to precipitate soap in mg/L
+    - Solids: Total dissolved solids in ppm
+    - Chloramines: Amount of Chloramines in ppm
+    - Sulfate: Amount of Sulfates dissolved in mg/L
+    - Conductivity: Electrical conductivity of water in μS/cm
+    - Organic_carbon: Amount of organic carbon in ppm
+    - Trihalomethanes: Amount of Trihalomethanes in μg/L
+    - Turbidity: Measure of light emiting property of water in NTU
+
+- Outputs:
+    - Potability: Indicates if water is safe for human consumption. Potable 1 and Not potable 0
