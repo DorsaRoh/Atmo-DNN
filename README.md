@@ -2,9 +2,9 @@
 ## Deep learning model created from scratch
 ### Determines the atmospheric conditions/chemical composition of a planets and stars; conditions needed to support life.
 
-## Data
+### Data
 
-Atmospheric Conditions: [NASA Frontier Development Labs (FDL) PSG/INARA Dataset](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/FDL/nph-fdl?psg)
+[NASA Frontier Development Labs (FDL) PSG/INARA Dataset](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/FDL/nph-fdl?psg)
 
 ## 1. Atmospheric Conditions of Planet
 
