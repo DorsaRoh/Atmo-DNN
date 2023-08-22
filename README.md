@@ -1,7 +1,5 @@
 # Atmo-DNN (deep neural network)
-### Determines the atmospheric conditions of a planet; conditions needed to support life.
-
-**Deep learning** model to determine the chemical composition of stars and planets/exoplanets
+### Determines the atmospheric conditions/chemical composition of a planets and stars; conditions needed to support life.
 
 1. Predicting atmospheric conditions of planet
 2. Predicting quality of liquid water, if present
