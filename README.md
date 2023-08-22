@@ -1,6 +1,8 @@
 # Atmo-DNN (deep neural network)
 ### Determines the atmospheric conditions/chemical composition of a planets and stars; conditions needed to support life.
 
+Atmo-DNN is a deep learning model created from **scratch**.
+
 ## Data
 
 Atmospheric Conditions: [NASA Frontier Development Labs (FDL) PSG/INARA Dataset](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/FDL/nph-fdl?psg)
