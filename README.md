@@ -17,7 +17,7 @@ The above are the general encompassing requirements for a planet to sustain carb
 
 Atmospheric Conditions: [NASA Frontier Development Labs (FDL) PSG/INARA Dataset](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/FDL/nph-fdl?psg)
 
-H2O Quality: [Water Potability](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
+H2O Quality: [Kaggle, Water Potability](https://www.kaggle.com/datasets/adityakadiwal/water-potability)
 
 
 ## 1. Atmospheric Conditions of Planet
