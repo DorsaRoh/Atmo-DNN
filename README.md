@@ -1,10 +1,10 @@
 # isLife
-### Determines the conditions of a planet; conditions needed to support life*.
-<i>*carbon-based life forms</i>
+### Determines the conditions of a planet; conditions needed to support life.
 
+A collection of deep learning and machine learning models that predict and determine a planet/exoplanet's potential to sustain carbon-based life.
   
 The following are the general encompassing criteria for a planet to sustain life,
-thus they are the main objectives to determine:
+thus they are what <i>isLife</i> determines:
 
 1. Predicting atmospheric conditions of planet
 2. Predicting quality of liquid water, if present
