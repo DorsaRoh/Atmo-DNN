@@ -1,7 +1,7 @@
 # isLife
 ### Determines the conditions of a planet; conditions needed to support life.
 
-A collection of deep learning and machine learning models that predict and determine a planet/exoplanet's potential to sustain life based on the criteria below:
+A collection of **deep learning** and **machine learning models** that predict and determine a planet/exoplanet's potential to sustain life based on the criteria below:
 
 1. Predicting atmospheric conditions of planet
 2. Predicting quality of liquid water, if present
