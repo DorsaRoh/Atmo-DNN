@@ -2,7 +2,10 @@
 ### Determines the conditions of a planet; conditions needed to support life.
 
 A collection of deep learning and machine learning models that predict and determine a planet/exoplanet's potential to sustain carbon-based life.
-  
+
+<i> isLife == true ? isLife == false </i>
+
+
 The following are the general encompassing criteria for a planet to sustain life,
 thus they are what <i>isLife</i> determines:
 
