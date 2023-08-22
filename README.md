@@ -9,9 +9,16 @@ A collection of deep learning and machine learning models that predict and deter
 4. Predicting the presence of a magnetic field
 5. Predicting planet's distance from its host star
 
-
 The above are the general encompassing requirements for a planet to sustain carbon-based life.
 <i>"isLife == true ? isLife == false"</i>
+
+
+## Data
+
+Atmospheric Conditions: !(NASA Frontier Development Labs (FDL) PSG/INARA Dataset)[https://exoplanetarchive.ipac.caltech.edu/cgi-bin/FDL/nph-fdl?psg]
+
+H2O Quality: https://www.kaggle.com/datasets/adityakadiwal/water-potability
+
 
 ## 1. Atmospheric Conditions of Planet
 
