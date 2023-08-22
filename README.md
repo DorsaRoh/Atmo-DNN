@@ -1,5 +1,5 @@
-# Atmo-DNN (deep neural network)
-## Deep learning model created from scratch
+# Atmo DNN (deep neural network)
+### Deep learning model created from scratch
 ### Determines the atmospheric conditions/chemical composition of a planets and stars; conditions needed to support life.
 
 ### Data
