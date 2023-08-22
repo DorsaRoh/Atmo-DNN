@@ -1,6 +1,7 @@
 # isLife
 ### Determines the conditions of a planet; conditions needed to support life*.
 <i>*carbon-based life forms</i>
+
   
 The following are the general encompassing criteria for a planet to sustain life,
 thus they are the main objectives to determine.
