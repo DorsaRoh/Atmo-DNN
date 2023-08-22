@@ -3,7 +3,7 @@
 
 A collection of deep learning and machine learning models that predict and determine a planet/exoplanet's potential to sustain carbon-based life.
 
-<i> isLife == true ? isLife == false </i>
+<i>"isLife == true ? isLife == false"</i>
 
 
 The following are the general encompassing criteria for a planet to sustain life,
