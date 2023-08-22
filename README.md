@@ -7,7 +7,7 @@ The following are the general encompassing criteria for a planet to sustain life
 thus they are the main objectives to determine:
 
 1. Predicting atmospheric conditions of planet
-2. Predicting presence of liquid water
+2. Predicting quality of liquid water, if present
 3. Predicting the stability of climate
 4. Predicting the presence of a magnetic field
 5. Predicting planet's distance from its host star
