@@ -1,10 +1,10 @@
 # isLife
-### Determining if Life is Possible on a Planet
+### Determining if Life is Possible and/or Present on a Planet
 
 The following are the general encompassing criteria for a planet to sustain life,
 thus they are the main objectives to determine.
 
-1. Predicting Atmospheric Conditions of Planet
+1. Predicting atmospheric conditions of planet
 2. Predicting presence of liquid water
 3. Predicting the stability of climate
 4. Predicting the presence of a magnetic field
@@ -13,7 +13,7 @@ thus they are the main objectives to determine.
 
 
 
-## 1. Predicting Atmospheric Conditions of Planet
+## 1. Atmospheric Conditions of Planet
 
 - Inputs: 
     - Semi-Major Axis	
@@ -37,3 +37,6 @@ thus they are the main objectives to determine.
     - NH3 abundance	
     - C2H6 abundance	
     - NO2 abundance	
+
+
+## 2. Presence of Liquid Water
