@@ -4,6 +4,7 @@
 
 Its main objective is to determine the atmospheric conditions/chemical composition of planets and stars. It aims to understand the conditions necessary to support life.
 
+![Diagram Image](https://github.com/DorsaRoh/Atmo-DNN/blob/main/assets/diagram.png)
 
 ## Data Source 📊
 Utilizes the [NASA Frontier Development Labs (FDL) PSG/INARA Dataset](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/FDL/nph-fdl?psg)
@@ -51,8 +52,6 @@ _Atmo DNN_ utilizes a deep learning architecture that includes the following lay
 3. **Hidden Layer 2**: 64 neurons.
 4. **Hidden Layer 3**: 32 neurons.
 5. **Output Layer**: 12 neurons.
-
-![Diagram Image](https://github.com/DorsaRoh/Atmo-DNN/blob/main/assets/diagram.png)
 
 ---
 
