@@ -52,6 +52,8 @@ _Atmo DNN_ utilizes a deep learning architecture that includes the following lay
 4. **Hidden Layer 3**: 32 neurons.
 5. **Output Layer**: 12 neurons.
 
+![Diagram Image](https://github.com/DorsaRoh/Atmo-DNN/blob/main/assets/diagram.png)
+
 ---
 
 ## Installation & Deployment 🚀
