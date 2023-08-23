@@ -1,43 +1,44 @@
 # Atmo DNN (Deep Neural Network)
 
-_Atmo DNN_ is a deep learning model built **from scratch**. Its main objective is to determine the atmospheric conditions/chemical composition of planets and stars. It aims to understand the conditions necessary to support life.
+### _Atmo DNN_ is a deep learning model built **from scratch**. 
 
-![Header Image](path_to_a_related_image.jpg) _You can replace this with any related image or graphic you may have._
+Its main objective is to determine the atmospheric conditions/chemical composition of planets and stars. It aims to understand the conditions necessary to support life.
+
 
 ## Data Source 📊
-Utilizes the **NASA Frontier Development Labs (FDL) PSG/INARA Dataset**.
+Utilizes the [NASA Frontier Development Labs (FDL) PSG/INARA Dataset](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/FDL/nph-fdl?psg)
 
----
 
 ## 1. Atmospheric Conditions of Planet 
 This part of the model focuses on determining the chemical composition of the planet's atmosphere.
 
 ### Inputs
-**Planetary**:
-- Semi-Major Axis (AU)
-- Planet Radius (km)
-- Planet Density (g/cm3)
-- Planet Surface Pressure (bar)
-
-**Stellar**:
-- Stellar Type
-- Stellar Temperature
-- Stellar Radius
-- kappa (fractional)
+**Inputs**:
+- Planetary:
+    - Semi-Major Axis (AU)
+    - Planet Radius	(km)
+    - Planet Density (g/cm3)
+    - Planet Surface Pressure (bar)
+- Stellar:
+    - Stellar Type
+    - Stellar Temperature
+    - Stellar Radius
+        
+- kappa	(fractional)
 - gamma1 (fractional)
 - gamma2 (fractional)
-- alpha beta (fractional)
+- alpha	beta (fractional)
 - Planet Surface Temperature (K)
 - Avg Mol Weight (fractional)
 - Mean Surface Albedo (fractional)
 
-### Outputs
-- CH4 abundance (fractional)
-- N2O abundance (fractional)
+**Outputs**:
+- CH4 abundance	(fractional)
+- N2O abundance	(fractional)
 - CO abundance (fractional)
 - O3 abundance (fractional)
-- SO2 abundance (fractional)
-- NH3 abundance (fractional)
+- SO2 abundance	(fractional)
+- NH3 abundance	(fractional)
 - C2H6 abundance (fractional)
 - NO2 abundance (fractional)
 
@@ -63,6 +64,7 @@ To set up the environment for running this project, especially with Jupyter note
     jupyter notebook
     ```
 
+Now, you can navigate to the desired notebook and run the cells.
 ---
 
 ## Contributing 🤝
