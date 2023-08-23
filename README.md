@@ -9,7 +9,7 @@ Its main objective is to determine the atmospheric conditions/chemical compositi
 Utilizes the [NASA Frontier Development Labs (FDL) PSG/INARA Dataset](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/FDL/nph-fdl?psg)
 
 
-## 1. Atmospheric Conditions of Planet 
+## Atmospheric Conditions of Planet 
 This part of the model focuses on determining the chemical composition of the planet's atmosphere.
 
 ### Inputs
@@ -71,6 +71,7 @@ To set up the environment for running this project, especially with Jupyter note
     ```
 
 Now, you can navigate to the desired notebook and run the cells.
+
 ---
 
 ## Contributing 🤝
