@@ -59,6 +59,12 @@ To set up the environment for running this project, especially with Jupyter note
     pip install jupyter pandas tensorflow numpy scikit-learn matplotlib seaborn
     ```
 
+    or 
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 3. **Run Jupyter Notebook**:
     ```bash
     jupyter notebook
