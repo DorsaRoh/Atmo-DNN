@@ -42,6 +42,16 @@ This part of the model focuses on determining the chemical composition of the pl
 - C2H6 abundance (fractional)
 - NO2 abundance (fractional)
 
+## Model Architecture 📐
+
+_Atmo DNN_ utilizes a deep learning architecture that includes the following layers:
+
+1. **Input Layer**: 12 neurons.
+2. **Hidden Layer 1**: 128 neurons.
+3. **Hidden Layer 2**: 64 neurons.
+4. **Hidden Layer 3**: 32 neurons.
+5. **Output Layer**: 12 neurons.
+
 ---
 
 ## Installation & Deployment 🚀
