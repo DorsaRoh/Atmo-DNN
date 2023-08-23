@@ -10,11 +10,18 @@
 
 Determines the chemical composition of the planet's atmosphere.
 
-- Inputs: 
-    - Semi-Major Axis (AU)
-    - Planet Radius	(km)
-    - Planet Density (g/cm3)
-    - Planet Surface Pressure (bar)
+- Inputs:
+- 
+    - Planetary:
+        - Semi-Major Axis (AU)
+        - Planet Radius	(km)
+        - Planet Density (g/cm3)
+        - Planet Surface Pressure (bar)
+    - Stellar:
+        - Stellar Type
+        - Stellar Temperature
+        - Stellar Radius
+          
     - kappa	(fractional)
     - gamma1 (fractional)
     - gamma2 (fractional)
