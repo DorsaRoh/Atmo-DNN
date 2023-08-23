@@ -11,7 +11,6 @@
 Determines the chemical composition of the planet's atmosphere.
 
 - Inputs:
-- 
     - Planetary:
         - Semi-Major Axis (AU)
         - Planet Radius	(km)
