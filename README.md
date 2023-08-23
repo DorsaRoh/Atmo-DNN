@@ -4,7 +4,7 @@
 
 Its main objective is to determine the atmospheric conditions/chemical composition of planets and stars. It aims to understand the conditions necessary to support life.
 
-![Diagram Image](https://github.com/DorsaRoh/Atmo-DNN/blob/main/assets/diagram.png)
+<img src="https://github.com/DorsaRoh/Atmo-DNN/blob/main/assets/diagram.png" width="400">
 
 ## Data Source 📊
 Utilizes the [NASA Frontier Development Labs (FDL) PSG/INARA Dataset](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/FDL/nph-fdl?psg)
