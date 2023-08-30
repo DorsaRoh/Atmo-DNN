@@ -10,7 +10,11 @@ Its main objective is to determine the atmospheric conditions/chemical compositi
 </div>
 <br>
 
-## Data 📊
+## Accuracy 📊
+Planetary Model: 91.33% <br>
+Stellar Model: 96.43%
+
+## Data 
 Utilizes the [NASA Frontier Development Labs (FDL) PSG/INARA Dataset](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/FDL/nph-fdl?psg)
 
 
