@@ -1,7 +1,6 @@
 # Atmo DNN (Deep Neural Network)
 
 ### _Atmo DNN_ is a deep learning model built **from scratch**. 
-NASA Space Apps Challenge: Habitable Exoplanets: Creating Worlds Beyond Our Own
 
 Its main objective is to determine the atmospheric conditions/chemical composition of planets and stars. It aims to understand the conditions necessary to support life.
 
