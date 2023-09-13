@@ -37,7 +37,7 @@ This part of the model focuses on determining the chemical composition of the pl
 - gamma1 (fractional)
 - gamma2 (fractional)
 - alpha	beta (fractional)
-- Planet Surface Temperature (K)
+- Surface Temperature (K)
 - Avg Mol Weight (fractional)
 - Mean Surface Albedo (fractional)
 
