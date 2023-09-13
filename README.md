@@ -2,7 +2,7 @@
 
 ### _Atmo DNN_ is a deep learning model built **from scratch**. 
 
-Its main objective is to determine the atmospheric conditions/chemical composition of planets and stars. It aims to understand the conditions necessary to support life.
+Its main objective is to determine the atmospheric conditions/chemical composition of planets and stars. It aims to understand the conditions necessary to support life and explore other means of determining chemical compositions of atmospheres beyond light.
 
 <br>
 <div align="center">
