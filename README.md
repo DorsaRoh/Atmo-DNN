@@ -1,6 +1,6 @@
-# Atmo DNN (Deep Neural Network)
+# Atmo
 
-### _Atmo DNN_ is a deep learning model built **from scratch**. 
+### _Atmo_ is a deep learning model built **from scratch**. 
 
 Its main objective is to determine the atmospheric conditions/chemical composition of planets and stars. Aims to identify exoplanets with conditions supportive of carbon-based life, and explore other means of determining chemical compositions of atmospheres without light.
 
@@ -22,7 +22,7 @@ Utilizes the [NASA Frontier Development Labs (FDL) PSG/INARA Dataset](https://ex
 This part of the model focuses on determining the chemical composition of the planet's atmosphere.
 
 ### Inputs
-**Inputs**:
+**Inputs (features)**:
 - Planetary:
     - Semi-Major Axis (AU)
     - Planet Radius	(km)
@@ -41,7 +41,7 @@ This part of the model focuses on determining the chemical composition of the pl
 - Avg Mol Weight (fractional)
 - Mean Surface Albedo (fractional)
 
-**Outputs**:
+**Outputs (targets)**:
 - CH4 abundance	(fractional)
 - N2O abundance	(fractional)
 - CO abundance (fractional)
