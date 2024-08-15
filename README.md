@@ -1,8 +1,6 @@
 # Atmo DNN (Deep Neural Network)
 
-### _Atmo DNN_ is a deep learning model built **from scratch**. 
-
-Its main objective is to determine the atmospheric conditions/chemical composition of planets and stars. Aims to identify exoplanets with conditions supportive of carbon-based life, and explore other means of determining chemical compositions of atmospheres without light.
+_Atmo DNN_ is a deep learning model with the main objective determining the atmospheric conditions/chemical composition of planets and stars. Aims to identify exoplanets with conditions supportive of carbon-based life, and explore other means of determining chemical compositions of atmospheres without light.
 
 <br>
 <div align="center">
